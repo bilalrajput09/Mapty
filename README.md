@@ -1,4 +1,4 @@
-# RunCycle-Adventure
+# Mapty
 
 <a name="readme-top"></a>
 
@@ -25,9 +25,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# [RunCycle-Adventure] <a name="about-project"></a>
+# [Mapty] <a name="about-project"></a>
 
-**[RunCycle-Adventure]** Welcome to the world of fitness and exploration with RunCycle Adventure, the versatile app that empowers you to create personalized running and cycling events from any location on the map. Whether you're a dedicated runner or a cycling enthusiast, this app is your key to crafting thrilling outdoor experiences tailored to your favorite activities. In this app you can choose location from the map and create event of your choice.
+**[Mapty]** Welcome to the world of fitness and exploration with Mapty, the versatile app that empowers you to create personalized running and cycling events from any location on the map. Whether you're a dedicated runner or a cycling enthusiast, this app is your key to crafting thrilling outdoor experiences tailored to your favorite activities. In this app you can choose location from the map and create event of your choice.
 
 ## Built With <a name="built-with"></a>
 
@@ -67,7 +67,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-- `(https://github.com/bilalrajput09/RunCycle-Adventure.git)`
+- `(https://github.com/bilalrajput09/Mapty.git)`
 
 ### Usage
 
@@ -105,7 +105,7 @@ To run the project execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/bilalrajput09/RunCycle-Adventure/issues).
+Feel free to check the [issues page](https://github.com/bilalrajput09/Mapty/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
